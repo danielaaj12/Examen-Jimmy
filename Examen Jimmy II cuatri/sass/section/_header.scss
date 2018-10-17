@@ -2,3 +2,39 @@
 /****************
       Header
 *****************/
+#header{
+      position: relative;
+      margin-top: 20px;
+    
+}
+
+.logo{
+     max-width: 100%;
+     height: auto;
+     float: left
+}
+
+#wrap-menu{
+      float:right;
+      list-style: none;
+      margin: 78px 5 5;
+      padding: 0;
+}
+
+.menu{
+      padding: 0;
+      margin:0;
+}
+
+.menu li{
+      display:inline ;
+
+}
+
+.menu li + li{
+      margin-left: 65px;
+}
+
+.container2{
+    align-content: unset;
+}
